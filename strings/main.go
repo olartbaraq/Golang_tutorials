@@ -174,7 +174,7 @@ func main() {
 	// newStr := []string{"I", "am", "learning", "Golang"}
 	// p(strings.Join(newStr, " ")) // "I am learning Golang"
 
-	// 11 - Field // will automatically split the string at the space character (" "). a split function on stereiod
+	// 11 - Field // will automatically split the string at the space or white space like (" " ) and character ("\n"). a split function on stereiod
 	myStr = "I am learning Golang"
 	p(strings.Fields(myStr)[3]) // "Golang"
 
