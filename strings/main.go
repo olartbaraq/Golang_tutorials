@@ -112,15 +112,70 @@ func main() {
 
 	p := fmt.Println
 
-	scd := strings.Contains("I love Golang", "love")
-	sfe := strings.Contains("I love Golang", "hate")
+	// scd := strings.Contains("I love Golang", "love")
+	// sfe := strings.Contains("I love Golang", "hate")
 
-	p(scd) // true. the word love is in "I love Golang"
+	//p(scd) // true. the word love is in "I love Golang"
 
 	//p(sfe) // false
 
-	// 2- ContainsAny (to check wether a character is within a string)
-	sfe = strings.ContainsAny("I love Golang", "f")   // false
-	sfe = strings.ContainsAny("I love Golang", "gft") // true why? g is in the string
-	p(sfe)
+	// 2- ContainsAny (to check wether a character in a substring is within a string)
+	//sfe = strings.ContainsAny("I love Golang", "f")   // false
+	//sfe = strings.ContainsAny("I love Golang", "gft") // true why? g is in the string
+
+	// 3- conatinsRune
+	//sfe = strings.ContainsRune("I love Golang", 'f') // false
+	//p(sfe)
+
+	// 4 - Count - retuns the number of occurrences of a substring in the string
+	// n := strings.Count("I love Golang", "o")
+	// p(n)
+
+	// 5- toLower and toUpper
+	// newS := strings.ToLower("I love Golang")
+
+	// newS = strings.ToUpper("I love Golang")
+	// p(newS)
+
+	// 6 - Compating strings
+	// Convert both strings you want to compare to lowercase strings or uppercase strings then use the == sign to return
+	// true or false
+	//p(strings.ToLower("GO") == strings.ToLower("go")) // This method is not efficient
+
+	//7 - Repeat
+	myStr := strings.Repeat("#", 10) // ########## (prints the strings 10 times)
+
+	//
+	//
+	//
+
+	// Instead a function called EqualFold is used
+	//p(strings.EqualFold("go", "GO")) // true. #####turns case insensitivity off.
+	// BUT if you wanna check the sensitivity , just use  == sign
+	//p("GO" == "go") // false
+
+	//
+	//
+	//
+	// MANIPULATION OF STRINGS
+
+	//8 - Replace
+	//myStr = "123.5657.364734.57684.2637"
+	// myStr = strings.Replace(myStr, ".", "-", 3) // "123-5657-364734-57684.2637"
+
+	//NB - if the no of occurrences is -1, it replaces all the . to -.
+	// Another way to replace all is to use the ReplaceAll function
+
+	// 9 - Split
+	//myStr = strings.Split(myStr, "-")[0]
+	//p(myStr) // 123
+
+	// 10 - Join
+	// newStr := []string{"I", "am", "learning", "Golang"}
+	// p(strings.Join(newStr, " ")) // "I am learning Golang"
+
+	// 11 - Field // will automatically split the string at the space character (" "). a split function on stereiod
+	myStr = "I am learning Golang"
+	p(strings.Fields(myStr)[3]) // "Golang"
+
 }
