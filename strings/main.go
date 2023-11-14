@@ -178,4 +178,11 @@ func main() {
 	myStr = "I am learning Golang"
 	p(strings.Fields(myStr)[3]) // "Golang"
 
+	// 12 - Trim // remove all leading and trailing unicode characters
+	strg := strings.Trim("...Hello Gophers!!!???*()", ".!?*()")
+	p(strg) // "Hello Goophers"
+
+	// 13 - TrimSPace - remove all leading and trailing whitespaces
+	strg = strings.TrimSpace("\t\n Learning Golang \n\n\t")
+	fmt.Printf("%q\n", strg)
 }
