@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bufio"
+	//"bufio"
 	"fmt"
 	"log"
 	"os"
@@ -152,36 +152,36 @@ func main() {
 	// }
 	// defer file.Close()
 
-	// dataReader, err := os.ReadFile("new.txt")
-	// if err != nil {
-	// 	log.Fatal(err)
-	// }
-	// fmt.Printf("Data read is \n %s\n", (dataReader)) // This will print out the entire data read from the file new.txt.
+	dataReader, err := os.ReadFile("new.txt")
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Printf("Data read is \n %s\n", (dataReader)) // This will print out the entire data read from the file new.txt.
 
 	//
 	//
 	//
 
 	//SCANNING FOR USER INPUT, READING FROM STDIN
-	scanner := bufio.NewScanner(os.Stdin)
+	// scanner := bufio.NewScanner(os.Stdin)
 
-	scanner.Scan()
+	// scanner.Scan()
 
-	text := scanner.Text()
+	// text := scanner.Text()
 	//bytes := scanner.Bytes()
 	//fmt.Printf("Text entered is %s\n", text)
 
 	// To continuously scan the stdin until a particualr string is scaned, we scan using the for loop
-	for scanner.Scan() {
-		text = scanner.Text()
-		fmt.Printf("You entered %s\n", text)
-		if text == "exit" {
-			fmt.Printf("No more entry needed\n")
-			break
-		}
-	}
-	if err := scanner.Err(); err != nil {
-		log.Println(err)
-	}
-	fmt.Printf("Waiting for instructions...\n")
+	// for scanner.Scan() {
+	// 	text = scanner.Text()
+	// 	fmt.Printf("You entered %s\n", text)
+	// 	if text == "exit" {
+	// 		fmt.Printf("No more entry needed\n")
+	// 		break
+	// 	}
+	// }
+	// if err := scanner.Err(); err != nil {
+	// 	log.Println(err)
+	// }
+	// fmt.Printf("Waiting for instructions...\n")
 }
