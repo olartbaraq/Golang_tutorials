@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>IBEDC - Home</title>
+  <meta content="IBEDC is the largest electricity distribution company in Nigeria. Since we started in 2013, we have delivered electricity to millions of Nigerians across Oyo, Ogun, Osun, Kwara, and parts of Niger, Ekiti and Kogi states." name="description"> 
+<meta content="Distributing Power, Changing Lives" name="keywords">  
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+
+<link href="assets/img/favicon.png" rel="icon">
+<link href="assets/img/favicon.png" rel="apple-touch-icon">
+	
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" integrity="sha512-1cK78a1o+ht2JcaW6g8OXYwqpev9+6GqOkz9xmBN9iUUhIndKtxwILGWYOSibOKjLsEdjyjZvYDq/cZwNeak0w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.9.1/font/bootstrap-icons.min.css" integrity="sha512-5PV92qsds/16vyYIJo3T/As4m2d8b6oWYfoqV+vtizRB6KhF1F9kYzWzQmsO6T3z3QG2Xdhrx7FQ+5R1LiQdUA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.2/css/boxicons.min.css" rel="stylesheet">  
+<link href="https://cdnjs.cloudflare.com/ajax/libs/glightbox/3.2.0/css/glightbox.css" rel="stylesheet">  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.2/swiper-bundle.css" integrity="sha512-15OzXDrYC/wTgcjNDIx6+2LiAHCPnS9DiKQj/dhgdRMpdW+W4AoSjxism+gRaDobBaFN+UONPGic1ttu5mpWxg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css" integrity="sha512-OTcub78R3msOCtY3Tc6FzeDJ8N9qvQn1Ph49ou13xgA9VsH9+LRxoFU6EqLhW4+PKRfU+/HReXmSZXHEkpYoOA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link href="assets/css/main.css" rel="stylesheet"> 
+     <link rel="stylesheet" href="app/ui/chat.css?v=bEc">
+    <link rel="stylesheet" href="app/ui/font-awesome.min.css">
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<!-- Microsoft Clarity Analytics -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "g0p8j4j9ml");
+</script>
+
+<style>
+	@font-face {
+    		font-family: Bryant;
+    		src: url("assets/fonts/bryant/BryantPro-Regular.otf") format("opentype");
+    		/*src: url("assets/fonts/bryant/BryantPro-Bold.otf") format("opentype");*/
+    		/*src: url("assets/fonts/bryant/BryantPro-Medium.otf") format("opentype");*/
+    		/*src: url("assets/fonts/bryant/BryantPro-Light.otf") format("opentype");*/
+    		/*src: url("assets/fonts/bryant/BryantPro-MediumAlternate.otf") format("opentype");*/
+    		/*src: url("assets/fonts/bryant/BryantPro-RegularAlternate.otf") format("opentype");*/    		
+		}
+	body{		
+		font-family: 'Bryant', sans-serif !important;
+	}
+	.rqst{
+		background: #FC8002; border-radius: 4px; 
+		color: #fff; width: 300px;
+		margin-left: 45px; height: 42.67px;
+		padding: 10px; margin-bottom: 0px;
+	}		
+	
+	.cookie-container {
+      position: fixed;
+      bottom: -100%;
+      left: 0;
+      right: 0;
+      width:100%;
+      max-width: 100%;
+      background: #2f3640;
+      color: #f5f6fa;
+      padding: 30px 32px 10px;
+      box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.39);
+      transition: 400ms;
+      z-index: 100001;
+    }
+    
+    .cookie-container.active {
+      bottom: 0;
+    }
+    
+    .cookie-container a {
+      color: #f5f6fa;
+    }
+    
+    .cookie-btn {
+      background: #3c6;
+      border: 0;
+      color: #f5f6fa;
+      padding: 12px 48px;
+      font-size: 18px;
+      margin-bottom: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    
+    .cookie-btna {
+      background: #069bbf;
+      border: 0;
+      color: #f5f6fa;
+      padding: 12px 48px;
+      font-size: 18px;
+      margin-bottom: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    
+    .cookie-btnc {
+      background: #fff;
+      border: 0;
+      color: #f00;
+      padding: 12px 48px;
+      font-size: 18px;
+      margin-bottom: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+	
+	.navbar>ul>li {white-space: nowrap;padding: 10px 0 10px 10px;}
+	#footer .footer-top .footer-links ul a {color: #fff;}
+	#footer .footer-top h4 {color: #fff;}
+	#footer .footer-top .footer-links li, #footer .footer-top .footer-links p{font-family: 'Bryant', sans-serif !important;}
+	.owl-theme .owl-nav.disabled + .owl-dots {margin-top: 10px;position: relative;top: -45px;}
+	#header.fixed-top {height: 70px;margin-top: 45px;}
+	.help .item-2 { padding-left: 0px; }
+	/*#topbar {background: #fc8002;}*/
+	/*.owl-carousel .owl-item img {height: 470px;width: 1350px;}*/
+	#footer .footer-top .footer-contact p {font-size: 16px;}
+	#topbar .social-links span { margin-left: 0px;}
+	#footer .footer-top .footer-links ul a {color: #fff;font-size: 16px !important;}
+	.pay-bills .box {padding: 0px;}		
+	.pay-bills .box h3 {    margin: -20px -20px 20px -20px;padding: 15px 15px;font-size: 15px;font-weight: 800;color: #fff;margin: 0px;}
+	.navbar-mobile {top: 40px !important;} 		
+	.pay-bills .box h4 {padding-left: 15px;padding-right: 15px; font-size: 14px;font-weight: 500; text-align: left;}
+	.request .php-form button[type=submit], .request .php-form button[type=submit]:hover {background: #fc8002;}
+	@media (max-width: 768px){
+			#topbar .contact-info {
+    			margin-left: 18px;
+			}
+			#topbar .contact-info a {
+				margin-left: 8px;font-size: 13px;
+			}
+			.pay-bills .box h4 {
+				text-align: center; font-size: 18px;
+			}
+			/* #droplet{
+				position: unset !important;
+    			will-change: unset !important;	
+    			top: unset !important;
+    			left: unset !important;
+    			transform: unset !important;
+			} */
+		}
+	
+		.btn-load, .btn-load:hover, .btn-load:active, .btn-load:focus{
+			color: #fff;background-color: #143855;border-color: #143855;border-radius: 0px;
+		 }	
+	.btn-readmore, .btn-readmore:hover, .btn-readmore:active, .btn-readmore:focus{background: #fc8002;color: #fff;font-size: 12px;margin-top: 10px;}
+	.news .title {font-size: 20px;font-weight: 600; text-transform: uppercase;}
+	.news .description {font-size: 15px; font-family: 'Bryant', sans-serif !important;}
+	/*p{text-align: justify !important;}*/
+	.exec img { height: 281px !important; width: 328px !important; border-radius: 10px;}
+	textarea {resize: none !important;}
+	
+	    .full-chat-block .btn:not(.btn-clear)
+	   {
+	       width: 45%;
+	       height: 45px;
+	       /*float:left;*/
+	   }
+	
+	    .full-chat-block .btn-primary, .full-chat-block .btn-primary:hover, .full-chat-block .btn-primary:focus, .full-chat-block .btn-dark, .full-chat-block .btn-dark:hover, .full-chat-block .btn-dark:focus {
+            background: rgb(245, 138, 32);
+            border: rgb(245, 138, 32);
+        }
+        
+        
+       .full-chat-block .btn-success, .full-chat-block .btn-success:hover, .full-chat-block .btn-success:focus {
+            background: #3c6;
+            border: #3c6;
+/*            text-shadow: 1px 1px #;*/
+        }
+        
+        
+        .full-chat-block .btn-danger, .full-chat-block .btn-danger:hover, .full-chat-block .btn-danger:focus {
+            background: #f00;
+            border: #f00;
+        }
+        
+        
+        .full-chat-block .btn-cancel, .full-chat-block .btn-cancel:hover, .full-chat-block .btn-cancel:focus {
+            background: #fff;
+            color: #f00;
+            border: 1px solid #f00;
+        }
+        
+        .full-chat-block .btn {
+            font-size: 13px;
+            box-shadow: 1px 2px 0px #c1cbcd;
+        }
+        
+        .full-chat-block .btn:disabled, .full-chat-block .btn-primary:disabled, .full-chat-block .btn.disabled
+        {
+            background: #696969;
+            color: #fff;
+            border: none;
+        }
+        
+        .full-chat-block .form-control, .full-chat-block button:focus, .btn:focus, .full-chat-block .btn-primary:focus, .full-chat-block .form-control:focus {
+            outline: none !important;
+            box-shadow: none !important;
+        }
+        
+        
+        .full-chat-block .form-control {
+/*            border: 1px solid rgb(6, 44, 81);*/
+            font-size: 14px;
+        }
+        
+        
+        .startBtn
+        {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            background: rgb(245, 138, 32);
+            border: rgb(245, 138, 32);
+            box-shadow: none !important;
+            height: 50px;
+            /*width: 50px;*/
+            border-radius: 10px;
+            z-index: 10000;
+        }
+        
+        
+        .full-chat-block .btn-clear, .full-chat-block .btn-clear:hover, .full-chat-block .btn-clear:focus {
+            background: #fff;
+            color: rgba(50, 0, 200, 0.3);
+            border: 1px solid rgba(50, 0, 200, 0.3);
+        }
+        
+        .full-chat-block .intbl tr td {
+            border: 1px solid #000;
+            padding: 4px;
+        }
+        
+        .pop::-webkit-scrollbar {
+            width: 5px;
+        }
+        
+        .pop::-webkit-scrollbar-track {
+            -webkit-box-shadow: inset 0 0 5px #3c9;
+        
+        }
+        
+        .pop::-webkit-scrollbar-thumb {
+            -webkit-box-shadow: inset 0 0 5px #3c9;
+            background: #2a1e84;
+            height: 75px;
+        }
+        
+	
+	.pay-bills .btn-buy {
+		display: inline-block;
+		padding: 8px 20px 10px;
+		color: #fff;
+		border-radius: 8px;
+		transition: none;
+		font-size: 12px;
+		font-weight: 400;
+		font-family: roboto,sans-serif;
+		font-weight: 600;
+		margin-bottom: 10px;
+		transition: .3s;
+		width: 130px;
+	}
+	input::-webkit-inner-spin-button, input::-webkit-outer-spin-button{    display:none !important;}
+	.bredcrumb, .counts{
+		background: url('assets/img/hero_bg.jpg');
+		}	
+
+	@media only screen and (min-width: 992px) {
+		#forceleft{
+		position: absolute !important;
+    	will-change: transform !important;
+    	top: 0px !important;
+    	left: -20px !important;
+    	transform: translate3d(-196px, 0px, 0px) !important;
+	}
+	}
+
+	@media screen and (min-width: 401px) and (max-width: 1024px) {
+  			.box .dimag { display: none !important; }
+			.box .dcont{width: 100% !important;}
+	}
+	
+	
+	
+</style>
+  
+	
+	<style>
+		.sendmsg{border: 0;padding: 10px 30px;color: #fff;margin-top: 5px;margin-bottom: 8px;transition: 0.4s;border-radius: 4px;background: #fc8002;} 
+		.pay-bills .box h4 {font-size: 14px; color: #000; font-weight: 600; font-family: poppins,sans-serif;margin-bottom: 0px; line-height: 26px; margin-top: 15px;}
+		.help .box { text-align: unset;} 
+		.cnt{height: 230px;} 
+        .section-title  {
+            margin: 15px 0 0;
+            font-size: 32px;
+            font-weight: 700;
+            color: #143855;
+            text-transform: uppercase;
+        }
+		.box p{
+			padding: 0px 10px;
+		}
+		.news p{text-align: justify;}
+		.tag{background: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgb(0 0 0 / 8%);
+    color: #656565!important;
+    display: inline-block;
+    font-family: Open Sans,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px; margin: 2px 3px;
+    padding: 1px 8px 0 5px;
+    text-decoration: none!important;
+    text-shadow: none;}
+	.ddtag{
+		list-style: none!important; margin: 0!important; padding: 0!important; display: inline-flex;
+
+	}
+	</style>
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  
+<button class="startBtn" id="startBtn" onClick="toggleChatArea()" style="color:#fff;font-size:24px"><i id="chat-icon" style="color: #fff;font-weight:normal;font-size: 24px" class="fa fa-fw fa-comments-o"></i><span id="ct">Talk With <em>Imole!</em></span></button>
+<!-- CHAT BAR BLOCK -->
+<div class="chat-bar-collapsible" id="chatbot-area" style="z-index:11000;display:none;border-top-left-radius:10px; border-top-right-radius:10px">
+    <button id="chat-button" type="button" class="collapsible">Talk with <span style="color:rgb(245, 138, 32)"><strong><em>Imole!</em></strong></span>
+        <i id="chat-icon" style="color: #fff;" class="fa fa-fw fa-comments-o"></i>
+    </button>
+
+    <div class="contents pop">
+        <div class="full-chat-block pop">
+            <!-- Message Container -->
+            <div class="outer-container pop">
+                <div class="chat-container pop">
+                    <!-- Messages -->
+                    <div id="chatbox">
+                        <br>
+                        <p id="chat-timestamp" style="padding-top:30px;font-weight: 550;font-size: 10px"></p>
+                        <p id="botStarterMessage" class=""><span>Loading...</span></p>
+                        <span id="chatarea"></span>
+                    </div>
+
+
+                    <div id="chat-bar-bottom">
+                        <p></p>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+<section id="topbar" class="d-flex align-items-center fixed-top">
+<div class="container d-md-flex justify-content-center justify-content-md-end"> 
+  <div class="contact-info d-flex align-items-center">
+	  <a href="https://pay.ibedc.com/" target="_blank"><i class="fa fa-money"></i> Make Payment</a>
+	  <a href="https://career.ibedc.com/" target="_blank"><i class="fa fa-search"></i> Careers</a>
+	  <a href="https://customer.ibedc.com/" target="_blank"><i class="fa fa-user"></i> Customer Portal</a>
+	  <a href="whistleblowing"><span><img src="https://www.ibedc.com/assets/whistled.png" style="height: 14px; margin-right: 2px" /></span> Whistleblowing</a>        
+  </div>
+  <div class="social-links d-none d-md-flex align-items-center">
+	<a href="/cdn-cgi/l/email-protection#7f1c0a0c0b10121a0d1c1e0d1a3f161d1a1b1c511c1012"><i class="fa fa-envelope"></i> <span class="__cf_email__" data-cfemail="11726462657e7c7463727063745178737475723f727e7c">[email&#160;protected]</span> </a>
+	  <span><a href="tel:07001239999"> <i class="fa fa-phone"></i> 07001239999</a></span>
+	<a href="https://www.instagram.com/ibedc.ng/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+	<a href="https://www.twitter.com/IBEDC_NG" class="twitter" target="_blank"><i class="bi bi-twitter"></i></a>
+	<a href="https://www.facebook.com/ibedc.ng" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+	<a href="https://www.linkedin.com/company/ibedc" target="_blank" class="k=linkedin"><i class="bi bi-linkedin"></i></a>
+  </div>
+</div>
+</section>
+<header id="header" class="d-flex align-items-center">
+<div class="container-fluid d-flex align-items-center justify-content-between" style="padding: 0px 75px 0px 30px !important;">
+
+  <a href="https://www.ibedc.com/index" class="logo"><img src="https://www.ibedc.com/assets/img/logo.png" alt="Logo" style="max-height:55px;"></a>
+
+  <nav id="navbar" class="navbar">
+	<ul>
+		<li><a class="nav-link scrollto active" href="index">Home</a></li> 
+	  				 
+		<li class="dropdown"><a  class="nav-link " href="about">About Us <i class="fa fa-angle-down"></i></a>
+ 		<ul><li><a href="companyprofile">Company Profile</a></li><li><a href="history">History</a></li><li><a href="executive">Executive Management</a></li><li><a href="corporate-governance">Corporate Governance</a></li><li><a href="social-responsibility">Corporate Social Responsibility</a></li><li><a href="financial-statement">Audited Financial Statement</a></li><li><a href="nerc-regulations">NERC Regulations</a></li><li><a href="offices">Our Offices/Network</a></li></ul>   
+ 		</li>  
+    				 
+		<li class="dropdown"><a  class="nav-link " href="customer-service">Customer Service <i class="fa fa-angle-down"></i></a>
+ 		<ul><li><a href="make-complaints">Make Complaints</a></li><li><a href="track-complaints">Track Complaints</a></li><li><a href="tarrif-info">Tariff Information</a></li><li><a href="request-connection">Request New Connection</a></li><li><a href="customer-right">Customer Rights</a></li><li><a href="verify-staff">Verify A Staff</a></li><li><a href="customer-touchpoint">Customer TouchPoint</a></li><li><a href="view-bills">View Your Bill</a></li><li><a href="bod">Bills On Demand</a></li><li><a href="outage-info">Outage Information</a></li><li><a href="tid-rollover">STS-TID Rollover</a></li></ul>   
+ 		</li>  
+    				 
+		<li class="dropdown"><a  class="nav-link " href="payments">Payments <i class="fa fa-angle-down"></i></a>
+ 		<ul><li><a href="onlinepay">E-Payments Channels</a></li><li><a href="offices">Payment Offices</a></li><li><a href="agentlocation">Payment Agents</a></li></ul>   
+ 		</li>  
+    				 
+		<li class="dropdown"><a  class="nav-link " href="metering">Metering <i class="fa fa-angle-down"></i></a>
+ 		<ul><li><a href="map">Map To-Do Guide</a></li><li><a href="nmmp">NMMP</a></li><li><a href="md-guide">MD Customers Guide</a></li><li><a href="easy_metering">Easy Metering</a></li></ul>   
+ 		</li>  
+    				 
+		<li class="dropdown"><a  class="nav-link " href="health-safety">Health & Safety <i class="fa fa-angle-down"></i></a>
+ 		<ul><li><a href="health-safety#safetypolicy">Our Safety Policy</a></li><li><a href="public-safety">Public & Community Safety</a></li><li><a href="children-safety">Domestic & Child Safety</a></li><li><a href="covid19">Covid-19 Safety Tips</a></li><li><a href="contact">Emergency & Hotlines</a></li></ul>   
+ 		</li>  
+    				 
+		<li class="dropdown"><a  class="nav-link " href="press-release">Media <i class="fa fa-angle-down"></i></a>
+ 		<ul><li><a href="press-release">Press Release</a></li><li><a href="press-kit">Press Kit</a></li>							<li class="dropdown dropdown-menu-left"><a href="#"><span>IBEDC Voice</span><i class="fa fa-angle-right"></i></a>
+								<!--//get childred-->
+							<ul id="forceleft"><li><a href="ibedc-voice-2019">IBEDC Voice 2019</a></li><li><a href="ibedc-voice-2020">IBEDC Voice 2020</a></li><li><a href="ibedc-voice-2021">IBEDC Voice 2021</a></li><li><a href="ibedc-voice-2022">IBEDC Voice 2022</a></li></ul>							  								  
+							</li>
+						<li><a href="downloads">Downloads</a></li></ul>   
+ 		</li>  
+    				 
+		<li class="dropdown"><a  class="nav-link " href="contact">Contact Us <i class="fa fa-angle-down"></i></a>
+ 		<ul><li><a href="contact#sendcont">Message Us</a></li><li><a href="whistleblowing">Whistle Blowing</a></li><li><a href="faqs">FAQs</a></li></ul>   
+ 		</li>  
+    	
+	</ul>
+	<i class="bi bi-list mobile-nav-toggle"></i>
+  </nav>
+</div>
+</header>   
+	
+<div class="owl-carousel owl-theme">  
+	
+						<div class="item"><a href="#" target="_blank"><img src="filesupload/6245b7e6281d60.05155669.jpg" alt="slider one"></a></div>
+					
+						<div class="item"><a href="https://www.ibedc.com/easy_metering" target="_blank"><img src="filesupload/6538fa72efab84.08023568.jpg" alt="slider one"></a></div>
+					
+						<div class="item"><a href="https://ibedc.com/payments" target="_blank"><img src="filesupload/64cb89b1a005a0.43446158.jpeg" alt="slider one"></a></div>
+					
+						<div class="item"><a href="https://ibedc.com/tid-rollover" target="_blank"><img src="filesupload/64ac1656bb5e71.77892689.jpeg" alt="slider one"></a></div>
+					
+						<div class="item"><a href="" target="_blank"><img src="filesupload/64cb8ac0a6fe15.20096972.jpeg" alt="slider one"></a></div>
+					
+						<div class="item"><a href="https://ibedc.com/whistleblowing" target="_blank"><img src="filesupload/642eb014e16672.50824080.jpg" alt="slider one"></a></div>
+					
+						<div class="item"><a href="https://ibedc.com/whistleblowing" target="_blank"><img src="filesupload/642eb00238e130.01888448.jpg" alt="slider one"></a></div>
+					
+						<div class="item"><a href="" target="_blank"><img src="filesupload/638dc222951036.44614386.jpg" alt="slider one"></a></div>
+						
+</div>	           
+
+  <main id="main">    
+	  <div class="rqst" style="width:220px;">
+		  <h4 style="font-size: 17px;">MAKE A COMPLAINT </h4> 		  
+	  </div>
+    <div id="request" class="request section-bg d-flex align-items-center py-3 px-3">
+      <div class="container d-flex justify-content-center" data-aos="fade-left">
+        <form action="" method="post" role="form" class="php-form">
+          <div class="row">
+            <div class="col-md form-group">
+              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+            </div>
+            <div class="col-md form-group">
+              <input type="email" class="form-control" name="memail" id="memail" placeholder="Email Address" required>
+            </div>
+            <div class="col-md form-group">
+              <input type="tel" class="form-control" name="phone" id="phone" placeholder="Phone" required>
+            </div>
+			 <div class="col-md form-group">
+              <input type="text" class="form-control" name="accountno" id="accountno" placeholder="Account Number" required>
+            </div>          
+            <div class="col-md text-center" id="showit">
+				<button type="button" class="sendmsg" onclick="return sendMessage()">Send Message</button>
+			  </div>
+			   <div class="col-md text-center" id="hideit" style="display: none !important">           
+				<button type="button" class="sendmsg" onclick="return sendMessage()"><i class="fa fa-spinner fa-spin"></i> Redirecting...</button>
+			  </div>
+          	</div>
+			
+        </form>
+
+      </div>
+    </div>
+    <section id="pay-bills" class="pay-bills">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title d-flex justify-content-center">
+          <h3>WHAT DO YOU WANT TO DO TODAY?</h3>
+        </div>
+        <hr>
+
+        <div class="row">
+          <div class="col-md-5 offset-md-1 d-flex align-items" data-aos="fade-up" data-aos-delay="100">
+            <div class="box item-1">
+			  <div class="row">
+			  <div class="col-md-5 p-0 d-none d-sm-block dimag text-center" style="background:#fff">					  
+					  <img class="img-fluid" src="filesupload/ibpay.png" style="padding:20px;margin-top:20%;margin-left:6px;cursor:pointer" onClick="window.open('https://pay.ibedc.com', '_blank');" />
+				  </div>
+				  <div class="col-md-7 dcont p-0 pb-2">
+					  <div class="" style="height: 200px">
+					  	<h3><i class="bi bi-credit-card"></i>Make Payment</h3>
+					  	<h4><p>Need to make payment? Take advantage of our hassle-free payment channels.</p>
+</h4>
+					  </div>
+					  <div><a href="https://pay.ibedc.com" target="_blank" class="btn-buy mt-3">Pay Now</a></div>
+				  </div>
+			  </div>
+            </div>
+          </div> 
+
+          <div class="col-md-5 d-flex align-items" data-aos="fade-up" data-aos-delay="100">
+            <div class="box item-2">
+				<div class="row">
+				  <div class="col-md-5 p-0 d-none d-sm-block dimag">					  
+					  <img class="img-fluid" src="filesupload/imagebuild/625350c770c886.68494374.jpg"/>
+				  </div>
+				  <div class="col-md-7 dcont p-0">
+					  <div class="" style="height: 170px">
+					  	<h3><i class="bi bi-lightning"></i> Get Metered</h3>
+					  	<h4><p>Need a Prepaid or Postpaid Meter? Request / Apply for one and get this without any delay</p>
+</h4>
+					  </div>
+					  <div><a href="https://msms.ibedc.com/map/" target="_blank" class="btn-buy mt-5">Apply Here</a></div>  
+				  </div>
+			  </div>                                          
+            </div>
+          </div>
+          <div class="col-md-5 offset-md-1 d-flex align-items" data-aos="fade-up" data-aos-delay="100">
+            <div class="box item-3">
+				<div class="row">
+				  <div class="col-md-5 p-0 d-none d-sm-block dimag">
+					  <img class="img-fluid" src="filesupload/imagebuild/625350d9526e49.42179551.jpg"/>
+				  </div>
+				  <div class="col-md-7 dcont p-0">
+					  <div class="cnt">
+					  	<h3><i class="bi bi-plug"></i> Request New Connection</h3>
+					  	<h4><p>Need a new connection to IBEDC Electricity Supply? Fill the application form or download our electricity supply agreement form and submit to the nearest IBEDC office.</p>
+</h4>
+					  </div>
+					  <div><a href="request-connection" class="btn-buy">Request Now</a> </div>
+				  </div>
+			  </div>                  
+            </div>
+          </div>
+
+          <div class="col-md-5 d-flex align-items" data-aos="fade-up" data-aos-delay="100">
+            <div class="box item-4">
+				<div class="row">
+				<div class="col-md-5 p-0 d-none d-sm-block dimag">					  
+					  <img class="img-fluid" src="filesupload/imagebuild/625350ecda1e22.55685312.jpg"/>
+				  </div>
+				  <div class="col-md-7 dcont p-0">
+					  <div class="cnt">
+					  	<h3><i class="bi bi-receipt"></i> Tarriff Information</h3>
+					  	<h4><p>Get Information on your tarriff to understand the units of power you have purchased</p>
+</h4>
+					  </div>
+					  <div><a href="tarrif-info" class="btn-buy">Learn More</a></div>
+				  </div>
+			  </div>                   
+            </div>
+          </div>
+
+        </div>
+		</div>
+    </section>
+    
+    <div class="help container-fluid" style="background: #f8f8f8;">	 	
+      <div class="row g-0">
+        <div class="col-md-5 offset-md-1 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+          <div class="box item-1" style="padding: 15px 15px;">
+            <div class="d-fle flex-column align-items-start">
+              <h4 class="mt-3">Where to find us</h4>				
+				 <form class="mt-4" method="post" action="">
+					 <div class="form-group col-md-8 mb-3">
+						 <label>Region</label>
+						 <select required name="" id="mystate" class="form-control" onChange="getofficeLocation()" required>
+						  <option value="">Select Region</option>
+								 <option value="2">Ibadan</option><option value="6">Kwara</option><option value="4">Ogun</option><option value="3">Osun</option><option value="5">Oyo</option>    
+						</select>
+					</div>
+					<div class="form-group col-md-8 mb-3">
+						<label>Business Hub</label>
+						<select class="form-control" name="city" id="dcity" onchange="getcenter()" required>							
+						   <option value="">-Select-</option>                           
+					   </select>						
+					</div>
+					<div class="form-group col-md-8 mb-3">
+						<label>Service Center</label>
+						<select class="form-control" name="location" id="location" required>							
+						   <option value="">Select Center</option>                           
+					   </select>						
+					</div>
+					 <div id="msg2" style="text-align:left;"></div>
+					 <div class="form-group col-md-8 mb-3" id="showit2">
+						 <button class="btn btn-load" type="button" onclick="return filterOffice()" name="" id="">Search Office</button>
+					 </div>
+					 <div class="form-group col-md-8 mb-3" id="hideit2" style="display:none;">
+						 <button class="btn btn-load" type="button" name="" id=""><i class="fa fa-spin fa-spinner"></i> Loading...</button>
+					 </div>
+				 </form>				
+            </div>			
+          </div>
+        </div> 
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+          <div class="box item-2">
+            <div class="d-flex flex-column align-items-end">
+              <h4>Do you need help?</h4>
+              <p>There is always an outlet close to you.</p>
+
+<p>Give us a call to schedule an appointment.</p>
+              <div class="contact d-flex flex-column align-items-end">
+                <h5>CONTACT US</h5>
+                <div>
+                  <span><a href="/cdn-cgi/l/email-protection#0d64636b624d646f68696e236e6260"><span class="__cf_email__" data-cfemail="d0b9beb6bf90b9b2b5b4b3feb3bfbd">[email&#160;protected]</span></a></span>
+                  <span><a href="tel:+2347001239999">+2347001239999</a></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>    
+    <section id="counts" class="counts mt-5">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title d-flex justify-content-center">
+          <h3>IBEDC COVERAGE STATISTICS</h3>
+        </div>
+        <hr>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 mt-md-2">
+            <div class="count-box text-center">              
+			  <h1 data-purecounter-start="0" data-purecounter-end="" data-purecounter-duration="1" class="purecounter">122</h1>
+              <p>33kV Feeders</p>
+            </div>
+            <!--<h1 class="counter text-white">1,123,456.78</h1>-->
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-md-2">
+            <div class="count-box text-center">
+              <h1 data-purecounter-start="0" data-purecounter-end="" data-purecounter-duration="1" class="purecounter">253</h1>
+              <p>11kV Feeders</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-md-2">
+            <div class="count-box text-center">              
+			  <h1 data-purecounter-start="0" data-purecounter-end="" data-purecounter-duration="1" class="purecounter">92</h1>
+              <p>Injection Substations</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-md-2">
+            <div class="count-box text-center">              
+				<h1 data-purecounter-start="0" data-purecounter-end="" data-purecounter-duration="1" class="purecounter">16274</h1>
+              <p>Distribution Substations</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ======= News Section ======= -->
+    <section id="news" class="news">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+			<h3>Latest <span>News</span></h3>
+        </div>
+        <hr>
+
+        <div class="row">
+			
+							<div class="col-md-4 d-flex align-items-stretch mb-5 mb-lg-0">
+								<div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+								  <div class="img"><a href="readmore?newsid=21"><img src="filesupload/news/651b3bb72473e8.04536297.jpeg" alt="ibedc news"></a></div>								  
+								  <h4 class="title"><a href="readmore?newsid=21">IBEDC Celebrates Nigeria   63</a></h4>
+								  <div><span style="color: #f85d24;font-size: 12px;">Posted On 02 Oct, 2023</span> </div>
+								  <div class="description mt-2 mb-2"><p>The Ibadan Electricity Distribution Company (IBEDC) Plc extends warm wishes to all Nigerians as the country celebrates its 63rd Independence Day and reaffirms its unwavering commitment to the development and progress</div>	
+								  <hr style="margin-bottom: 20px">
+									 <ul class="ddtag">
+										<li><span class="tag">Nigeria Independence</span></li>
+										<li><span class="tag">Press Release</span></li>
+									</ul>
+									<br>
+								  <a href="readmore?newsid=21" class="btn btn-sm btn-readmore">read more</a>
+								</div>
+							  </div>
+							
+							<div class="col-md-4 d-flex align-items-stretch mb-5 mb-lg-0">
+								<div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+								  <div class="img"><a href="readmore?newsid=20"><img src="filesupload/news/651b3ad4a8cf22.87580971.png" alt="ibedc news"></a></div>								  
+								  <h4 class="title"><a href="readmore?newsid=20">Report Energy Theft And Get Paid  IBEDC Tells Customers</a></h4>
+								  <div><span style="color: #f85d24;font-size: 12px;">Posted On 02 Oct, 2023</span> </div>
+								  <div class="description mt-2 mb-2"><p>The&nbsp;<a href="https://www.ibedc.com/"><strong>Ibadan Electricity Distribution Company</strong></a>&nbsp;(IBEDC), on Friday, called on residents of Osun State to report anyone engaging in energy theft, saying</div>	
+								  <hr style="margin-bottom: 20px">
+									 <ul class="ddtag">
+										<li><span class="tag">Energy Theft, Osun</span></li>
+										<li><span class="tag">Press Release</span></li>
+									</ul>
+									<br>
+								  <a href="readmore?newsid=20" class="btn btn-sm btn-readmore">read more</a>
+								</div>
+							  </div>
+							
+							<div class="col-md-4 d-flex align-items-stretch mb-5 mb-lg-0">
+								<div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+								  <div class="img"><a href="readmore?newsid=19"><img src="filesupload/news/651b39a656b6d7.16636206.jpeg" alt="ibedc news"></a></div>								  
+								  <h4 class="title"><a href="readmore?newsid=19">IBEDC  electricity workers sign new condition of service</a></h4>
+								  <div><span style="color: #f85d24;font-size: 12px;">Posted On 02 Oct, 2023</span> </div>
+								  <div class="description mt-2 mb-2"><p>The management of Ibadan Electricity Distribution Company (IBEDC) and its in-house electricity workers&rsquo; unions have signed a new condition of service to improve employees wellbeing and</div>	
+								  <hr style="margin-bottom: 20px">
+									 <ul class="ddtag">
+										<li><span class="tag">Staff, Employment</span></li>
+										<li><span class="tag">Press Release</span></li>
+									</ul>
+									<br>
+								  <a href="readmore?newsid=19" class="btn btn-sm btn-readmore">read more</a>
+								</div>
+							  </div>
+							          
+        </div>       
+		</div>
+    </section>
+
+
+  </main>
+	
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+	    $('.owl-carousel').owlCarousel({
+			loop:true,
+			margin:10,    
+			items:4,
+			loop:true,
+			margin:10,
+			autoplay:true,
+			autoplayTimeout:5000,
+			autoplayHoverPause:true,
+			responsive:{
+				0:{
+					items:1
+				},
+				600:{
+					items:1
+				},
+				1000:{
+					items:1
+				}
+			}
+		});
+	</script>
+	<footer id="footer" class="footer">
+<div class="container" data-aos="fade-up">
+
+  <div class="footer-top">
+	<div class="container">
+	  <div class="row">
+
+		<div class="col-lg-4 col-md-6 footer-contact">
+		  <img src="https://www.ibedc.com/assets/img/footer-logo.png" style="height: 55px; margin-bottom:5px;">
+		  <p class="mt-3">
+			 IBEDC is the largest electricity distribution company in Nigeria. Since we started in 2013, we have delivered electricity to millions of Nigerians across Oyo, Ogun, Osun, Kwara, and parts of Niger, Ekiti and Kogi states.		  </p>
+		</div>
+
+		<div class="col-lg col-md-6 footer-links offset-md-1">
+		  <h4 style="color: #fff;">Important Links</h4>
+		  <ul>
+			<li><i class="bx bx-chevron-right"></i> <a href="index">Home</a></li>
+			<li><i class="bx bx-chevron-right"></i> <a href="about">About Us</a></li>
+			<li><i class="bx bx-chevron-right"></i> <a href="customer-service">Customer Services</a></li>
+			<li><i class="bx bx-chevron-right"></i> <a href="terms-of-service">Terms of Service</a></li>
+			<li><i class="bx bx-chevron-right"></i> <a href="privacy">Privacy Policy</a></li>
+			<li><i class="bx bx-chevron-right"></i> <a href="https://careers.ibedc.com/" target="_blank">Careers</a></li>
+		  </ul>
+		</div>
+
+		<div class="col-lg col-md-6 footer-links mt-4">
+		  <h4 class=""></h4>
+		  <ul>
+			<li><i class="bx bx-chevron-right"></i> <a href="payments">Payments</a></li>
+			<li><i class="bx bx-chevron-right"></i> <a href="health-safety">Health & Safety</a></li>
+			<li><i class="bx bx-chevron-right"></i> <a href="outage-info">Outage Information</a></li> 
+			<li><i class="bx bx-chevron-right"></i> <a href="https://customer.ibedc.com/" target="_blank">Customer Portal</a></li>
+			<li><i class="bx bx-chevron-right"></i> <a href="whistleblowing">Whistleblowing</a></li>
+			<li><i class="bx bx-chevron-right"></i> <a href="sitemap.xml">Sitemap</a></li>
+		  </ul>
+		</div>
+
+		<div class="col-lg-3 col-md-6 footer-links">
+		  <h4>Contact</h4>
+			<p><i class="fa fa-phone"></i> <a href="tel:07001239999" style="color: #fff;">07001239999</a></p>
+		  <p><i class="fa fa-map-marker"></i> Capital Building, 115 MKO Abiola Way (former Ring Road), Ibadan, Oyo State.</p>
+		  <div class="social-links mt-3">
+			<a href="https://www.twitter.com/IBEDC_NG" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+			<a href="https://www.facebook.com/ibedc.ng" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+			<a href="https://www.instagram.com/ibedc.ng/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+			<a href="https://www.linkedin.com/company/ibedc" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>                                
+		  </div>
+		</div>
+
+	  </div>
+	</div>
+  </div>
+
+  <div class="container-fluid py-4" style="padding-bottom: 55px !important;">
+	<span>&copy; Copyright 2023 <strong><span>IBEDC</span></strong>. All Rights Reserved</span>
+	<div class="copyright">
+	  <img src="https://www.ibedc.com/assets/img/footer-line.png" style="width: 100%;">
+	</div>        
+  </div>
+</div>
+</footer>
+
+<div class="cookie-container">
+  <p>This Privacy Statement and Cookies Policy (the "Privacy Policy") is located on the website, www.ibedc.com (the "Website").</p>
+  <p>This Privacy Policy (together with our Terms of Use and any other documents referred to in such Terms of Use) sets out the basis on which any personal data we collect from you, or that you otherwise provide to us, will be processed and used by us and applies to all of your personal data irrespective of the medium or method by which we obtained/received your personal data.</p>
+    <br>
+    <center>
+      <button class="cookie-btna" onClick="location.href='https://www.ibedc.com/privacy'">Learn More</button> &nbsp;&nbsp;&nbsp;
+      <button class="cookie-btn">Accept</button> &nbsp;&nbsp;&nbsp;
+      <button class="cookie-btnc">Close</button>
+    </center>
+</div>  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!--<script src="https://cdn.jsdelivr.net/npm/@srexi/purecounterjs@1.5.0/purecounter.min.js"></script>-->
+
+<!-- Chat JS -->
+    
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/glightbox/3.2.0/js/glightbox.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>  
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.2/swiper-bundle.min.js" integrity="sha512-dPYTaB+Ip4gAl9vo6U0jSmI8v1AZKjPKH367mfo7pR5gLf1IKpjm3bIXIwm+MmYWEf0eiBEWSBqE+MdKUx0jfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>  
+  <script src="assets/js/main.js"></script>
+  
+  <script>
+    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?66836';
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var options = {
+  "enabled":true,
+  "chatButtonSetting":{
+      "backgroundColor":"#4dc247",
+      "ctaText":"",
+      "borderRadius":"25",
+      "marginLeft":"0",
+      "marginBottom":"50",
+      "marginRight":"50",
+      "position":"left"
+  },
+  "brandSetting":{
+      "brandName":"IBEDC",
+      "brandSubTitle":"Typically replies within a day",
+      "brandImg":"https://ibedc1.obounce.net/dev/assets/img/logo.png",
+      "welcomeText":"Hi there!\nHow can I help you?",
+      "messageText":"Hello, I have a question about IBEDC",
+      "backgroundColor":"#0a5f54",
+      "ctaText":"Start Chat",
+      "borderRadius":"25",
+      "autoShow":false,
+      "phoneNumber":"2347059093900"
+  }
+}; 
+    s.onload = function() {
+        CreateWhatsappChatWidget(options);
+    };
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+</script>
+
+<script type="application/javascript">
+	function getofficeLocation(){
+			var str = document.getElementById("mystate").value;   			
+			if (str.length == 0) {
+				document.getElementById("dcity").innerHTML = ""; 
+				return;
+			} else {
+				var xmlhttp = new XMLHttpRequest();
+				xmlhttp.onreadystatechange = function() {
+					if (this.readyState == 4 && this.status == 200) {                    
+						document.getElementById("dcity").innerHTML = this.responseText;
+					    console.log(this.responseText); 
+						getcenter();
+					}
+				};
+				xmlhttp.open("GET", "ajgetofficeloc?u=" + str, true);
+				xmlhttp.send();
+			}
+		}
+	
+	function getcenter(){
+			var str = document.getElementById("dcity").value;   			
+			if (str.length == 0) {
+				document.getElementById("location").innerHTML = ""; 
+				return;
+			} else {
+				var xmlhttp = new XMLHttpRequest();
+				xmlhttp.onreadystatechange = function() {
+					if (this.readyState == 4 && this.status == 200) {                    
+						document.getElementById("location").innerHTML = this.responseText;
+					    //console.log(this.responseText);
+					}
+				};
+				xmlhttp.open("GET", "ajgetofficeloc?center=" + str, true);
+				xmlhttp.send();
+			}
+		}
+	function logComplaint(){
+			let fname = document.getElementById('fname').value;
+			let phone = document.getElementById('phone').value;
+			let email = document.getElementById('email').value;
+			let acctno = document.getElementById('acctno').value;
+			let grecaptcharesponse = document.getElementById('g-recaptcha-response').value;
+			let category = document.getElementById('category').value;
+			let subcategory = document.getElementById('subcategory').value;
+			let desc = document.getElementById('desc').value;
+			
+			document.getElementById("hideit").style.display = 'block';
+		    document.getElementById("showit").style.display = 'none';
+			document.getElementById('showtmsg').innerHTML = '';
+			
+			if(fname == '' || phone == '' || email == '' || acctno =='' || category == '' || subcategory == '' || desc == ''){
+				document.getElementById('showtmsg').innerHTML = '<span class="text-danger">All the required fields must be specified</span>';
+				document.getElementById("hideit").style.display = 'none';
+				document.getElementById("showit").style.display = 'block'
+			}else if(grecaptcharesponse == ''){
+			    document.getElementById('showtmsg').innerHTML = '<span class="text-danger">Click the recaptcha to prove you are not a robot.</span>';
+				document.getElementById("hideit").style.display = 'none';
+				document.getElementById("showit").style.display = 'block'
+			}else{
+				$.ajax({
+					url: 'ajmakecomplaint', 
+					 type: 'post',
+					 data: {
+					   phone:phone, acctno: acctno, fname: fname, email:email, category:category, subcategory:subcategory, desc: desc, grecaptcharesponse: grecaptcharesponse
+					 },
+					cache:false,
+					beforeSend:function(){
+						document.getElementById("hideit").style.display = 'block';
+						document.getElementById("showit").style.display = 'none';
+				   },
+					success: function(response) {
+						document.getElementById("hideit").style.display = 'none';
+						document.getElementById("showit").style.display = 'block';							
+						document.getElementById('showtmsg').innerHTML = '<div>'+response+'</div>';						
+					}
+				});
+			}
+			return false;
+			
+		}
+		
+		function getsubcat() {
+			var str = document.getElementById("category").value;   			
+			if (str.length == 0) {
+				document.getElementById("subcategory").innerHTML = "";				
+				return;
+			} else {
+				var xmlhttp = new XMLHttpRequest();
+				xmlhttp.onreadystatechange = function() {
+					if (this.readyState == 4 && this.status == 200) {                    
+						document.getElementById("subcategory").innerHTML = this.responseText;
+					 /*   getother(this.responseText);*/
+					}
+				};
+				xmlhttp.open("GET", "ajsubcatgry?ctry=" + str, true);
+				xmlhttp.send();
+			}
+		}
+			function getlgovt() {
+			var str = document.getElementById("mystate").value;   			
+			if (str.length == 0) {
+				document.getElementById("city").innerHTML = "";				
+				return;
+			} else {
+				var xmlhttp = new XMLHttpRequest();
+				xmlhttp.onreadystatechange = function() {
+					if (this.readyState == 4 && this.status == 200) {                    
+						document.getElementById("city").innerHTML = this.responseText;
+					 /*   getother(this.responseText);*/
+					}
+				};
+				xmlhttp.open("GET", "getcity?u=" + str, true);
+				xmlhttp.send();
+			}
+		}
+		
+		function getlocation(id){
+			var str = document.getElementById("dcity").value;   
+			//console.log(str)			
+			if (str.length == 0) {
+				document.getElementById("location").innerHTML = "";				
+				return;
+			} else {
+				var xmlhttp = new XMLHttpRequest();
+				xmlhttp.onreadystatechange = function() {
+					if (this.readyState == 4 && this.status == 200) {                    
+						document.getElementById("location").innerHTML = this.responseText;
+					    //console.log(this.responseText);
+					}
+				};
+				xmlhttp.open("GET", "ajgetlocation?u=" + str, true);
+				xmlhttp.send();
+			}
+		}
+		
+		function stsKCT()
+		{
+		    let mno = document.querySelector('#meterno').value;
+		    
+		    if(mno != "")
+		    {
+		        let fd = new FormData(kctForm);
+		        let req = new XMLHttpRequest();
+		        
+		        document.querySelector('#stsResp').innerHTML = `<span style="color:#000">Processing...</span>`;
+		        req.open("POST", "ajsts", true);
+		        req.onreadystatechange = () => {
+		            if(req.readyState !== 4 || req.status !== 200) return;
+		            
+		            document.querySelector('#stsResp').innerHTML = req.responseText;
+		        }
+		        req.send(fd);
+		    }
+		    else
+		    {
+		        document.querySelector('#stsResp').innerHTML = `<span style="color:red">Please Provide A Valid Meter No</span>`;
+		    }
+		}
+		
+		function loadagent(){
+			var mstate = document.getElementById('mystate').value;
+			var mcity = document.getElementById('city').value;
+			var munit = document.getElementById('location').value;
+			
+			document.getElementById('hideit').style.display = 'block';
+			document.getElementById('showit').style.display = 'none';			
+			
+			if(mstate == ''){
+				document.getElementById('msg').innerHTML = '<span class="text-danger">You forgot to select search state</span>';
+				document.getElementById('hideit').style.display = 'none';
+				document.getElementById('showit').style.display = 'block';	
+			}else{
+				localStorage.setItem('stt', mstate)
+				localStorage.setItem('cty', mcity)
+				localStorage.setItem('loc', munit)
+				window.location.href = "offices";
+				document.getElementById('hideit').style.display = 'block';
+			    document.getElementById('showit').style.display = 'none';
+				/*var xmlhttp = new XMLHttpRequest();
+				xmlhttp.onreadystatechange = function() {
+					if (this.readyState == 4 && this.status == 200) {                    
+						document.getElementById("msg").innerHTML = this.responseText;
+					    getother(this.responseText);
+					}
+				};
+				xmlhttp.open("GET", "ajloadagent?u=" + str, true);
+				xmlhttp.send();*/
+			}
+			return false;
+		}
+		
+		const cookieContainer = document.querySelector(".cookie-container");
+        const cookieButton = document.querySelector(".cookie-btn");
+        const closeButton = document.querySelector(".cookie-btnc");
+        
+        cookieButton.addEventListener("click", () => {
+          cookieContainer.classList.remove("active");
+          localStorage.setItem("cookieBannerDisplayed", "true");
+        });
+        
+        closeButton.addEventListener("click", () => {
+          cookieContainer.classList.remove("active");
+        });
+        
+        setTimeout(() => {
+          if (!localStorage.getItem("cookieBannerDisplayed")) {
+            cookieContainer.classList.add("active");
+          }
+        }, 2000);
+        
+</script>
+<script src="app/core/build.js"></script>    
+    <script src="app/core/chts.js?v=kacdy"></script>
+    <script src="app/core/btnn.js?v=yudafsy"></script>
+    <script src="app/core/acn.js?v=cbfdeff"></script>
+    <script>
+    
+        function startSession()
+        {
+            $.ajax({
+                url: "apis/",
+                data: {type: 'start_chat'},
+                type: "POST",
+                success: (d) => {
+                    //Nothing
+                }
+            });
+        }
+        
+        window.onload = (e) => {
+            localStorage.setItem("cookieBannerDisplayed", "true");
+            startSession();
+        //   toggleChatArea(); 
+        }
+        
+    </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LDX9N553CW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LDX9N553CW');
+</script>	
+	<script type="application/javascript"> 
+		function filterOffice(){
+			let dcity = document.getElementById('dcity').value;
+			let dstate = document.getElementById('mystate').value;
+			let dlocation = document.getElementById('location').value;
+			
+			/* document.getElementById("hideit2").style.display = 'block';
+			document.getElementById("showit2").style.display = 'none'; */
+			document.getElementById('msg2').innerHTML = '';
+			
+			if(dcity == '' || dstate == ''){				
+				alert('Region & Business Hub fields must be specified');
+				/* document.getElementById("hideit2").style.display = 'none';
+				document.getElementById("showit2").style.display = 'block' */
+			}else{
+				//localStorage.setItem('filtercity', dcity)
+				//localStorage.setItem('filterzone', dstate)
+				//localStorage.setItem('fiteradr', dlocation)				
+				setTimeout(function(){
+					/* document.getElementById("hideit2").style.display = 'block';
+					document.getElementById("showit2").style.display = 'none'; */
+					//window.location.href = "offices";    				
+					
+					window.location = '/offices?region=' + dstate+'&hub='+dcity+'&center='+dlocation;
+				}, 3000);
+			}
+		}	
+		
+        function sendMessage(){
+			let name = document.getElementById('name').value;
+			let phone = document.getElementById('phone').value;
+			let email = document.getElementById('memail').value;
+			//let service = document.getElementById('service').value;
+			let accountno = document.getElementById('accountno').value;
+			document.getElementById("hideit").style.display = 'block';
+			document.getElementById("showit").style.display = 'none';
+			//document.getElementById('msg').innerHTML = ''
+			
+			if(name == '' || phone == '' || email == '' || accountno == ''){
+				//document.getElementById('msg').innerHTML = '<span class="text-danger">All the required fields must be specified</span>';
+				alert('All the required fields must be specified');
+				document.getElementById("hideit").style.display = 'none';
+				document.getElementById("showit").style.display = 'block'
+			}else{
+				localStorage.setItem('msgname', name)
+				localStorage.setItem('msgphone', phone)
+				localStorage.setItem('msgemail', email)
+				localStorage.setItem('msgacctno', accountno)				
+				setTimeout(function(){
+					document.getElementById("hideit").style.display = 'block';
+					document.getElementById("showit").style.display = 'none';
+					window.location.href = "make-complaints";    				
+				}, 3000);
+			}
+		}		
+		
+		
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"828fa15f9e4c4242","version":"2023.10.0","r":1,"token":"e56c651b17e646d9bdbcf8c11f75698d","b":1}' crossorigin="anonymous"></script>
+</body>
+</html>
