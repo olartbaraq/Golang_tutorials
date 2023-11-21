@@ -39,9 +39,9 @@ func main() {
 
 	// MAKING A UNIDRIECTIONAL CHANNEL
 
-	c1 := make(<-chan int) // only for receiving
+	c1 := make(<-chan int) // only for receiving from channel
 	_ = c1
 
-	c2 := make(chan<- string) // only for sending
+	c2 := make(chan<- string) // only for sending to channel
 	_ = c2
 }
